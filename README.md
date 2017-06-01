@@ -9,4 +9,11 @@ grep -E '(BREAK-IN|Invalid user|Failed|refused|Illegal)' /var/log/auth.log | rev
 
 grab the entire ASN (Mainly China, Sorry China!!) then block everything that exists under that ASN (reject-with icmp-port-unreachable)
 
+Usage (Copy Pasta):
+
+wget https://raw.githubusercontent.com/tg12/BLOCK_BY_ASN/master/script1.sh
+chmod u+x
+./script1.sh
+
+
 
