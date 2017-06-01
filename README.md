@@ -12,7 +12,9 @@ grab the entire ASN (Mainly China, Sorry China!!) then block everything that exi
 Usage (Copy Pasta):
 
 wget https://raw.githubusercontent.com/tg12/BLOCK_BY_ASN/master/script1.sh
+
 chmod u+x
+
 ./script1.sh
 
 
